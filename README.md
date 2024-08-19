@@ -1,5 +1,5 @@
 - 👀 Hi, I’m Kalimuddin, Currently working as JAVA Backend Developer
-- 👋 I have completed my B.Tech in Information Technology. (2017 to 2021)
+- I have completed my B.Tech in Information Technology. (2017 to 2021)
 - My primary coding language: JAVA
 
 <!---
