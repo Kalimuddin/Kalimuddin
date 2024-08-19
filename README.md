@@ -1,6 +1,6 @@
-- 👀 Hi, I’m Kalimuddin, Currently working as JAVA developer and also I have done my personal projects in Machine Learning.
+- 👀 Hi, I’m Kalimuddin, Currently working as JAVA Backend Developer
 - 👋 I have completed my B.Tech in Information Technology. (2017 to 2021)
-- My primary coding language: JAVA and Python
+- My primary coding language: JAVA
 
 <!---
 Kalimuddin/Kalimuddin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
